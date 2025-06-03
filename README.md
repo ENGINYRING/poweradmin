@@ -1,3 +1,6 @@
+# WORK IN PROGRESS! DO NOT USE IN PRODUCTION
+
+
 # Poweradmin [![Composer](https://github.com/poweradmin/poweradmin/actions/workflows/php.yml/badge.svg)](https://github.com/poweradmin/poweradmin/actions/workflows/php.yml)
 
 [Poweradmin](https://www.poweradmin.org) is a friendly web-based DNS administration tool for PowerDNS server. The
